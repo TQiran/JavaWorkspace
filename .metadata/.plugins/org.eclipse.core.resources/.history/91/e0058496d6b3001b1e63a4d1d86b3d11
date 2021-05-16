@@ -1,0 +1,10 @@
+package com.qiran.util;
+
+public class Page {
+	
+	int start = 0;
+	int count = 5;
+	
+	//最后一页 的起始位置
+	int last = 0;
+}

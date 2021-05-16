@@ -1,0 +1,5 @@
+package com.qiran.service;
+
+public interface CategoryService {
+
+}
